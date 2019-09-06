@@ -1,4 +1,4 @@
-# budgetplanner
+# Money Tracker & Budget Planner
 Practice frontend with D3, Firestore, as part of Build Data Visualization with D3.js course from Udemy 
 
 1. Clone this repo
